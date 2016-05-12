@@ -1,0 +1,376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"el",
+				"elementUsageDefs"
+			],
+			[
+				"se",
+				"segmentUsage"
+			],
+			[
+				"tr",
+				"transactionDescription"
+			],
+			[
+				"seg",
+				"segment"
+			],
+			[
+				"P",
+				"print"
+			],
+			[
+				"active",
+				"active_in_field"
+			],
+			[
+				"its",
+				"itIsASegment"
+			],
+			[
+				"it",
+				"itIsASegment"
+			],
+			[
+				"S",
+				"Segment"
+			],
+			[
+				"self",
+				"self"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"A",
+				"Active"
+			],
+			[
+				"s",
+				"segmentId"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"segmentI",
+				"SegmentID"
+			],
+			[
+				"F",
+				"Field"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"E",
+				"ElementID"
+			],
+			[
+				"Segme",
+				"SegmentID"
+			],
+			[
+				"D",
+				"Description"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"i",
+				"in"
+			],
+			[
+				"get",
+				"getCode"
+			],
+			[
+				"lo",
+				"loads"
+			],
+			[
+				"a",
+				"agency"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"c",
+				"CurrentData"
+			],
+			[
+				"pa",
+				"parse"
+			],
+			[
+				"m",
+				"msg"
+			],
+			[
+				"v",
+				"version"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"int",
+				"intVersion"
+			],
+			[
+				"Seg",
+				"SegmentUsage"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"Se",
+				"segmentusageSchema"
+			],
+			[
+				"ge",
+				"generateResponse"
+			],
+			[
+				"gen",
+				"genRes"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sushmita/crypto.py",
+		"/home/sushmita/EDI-Creator_Project/out_sherine.py",
+		"/home/sushmita/EDI-Creator_Project/out.py",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/controllers/SegmentDescription.js",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/index.js",
+		"/home/sushmita/EDI-Creator_Project/webservice/server.js",
+		"/home/sushmita/EDI-Creator_Project/junk2.py",
+		"/home/sushmita/EDI-Creator_Project/out_ET.py",
+		"/home/sushmita/EDI-Creator_Project/Project/Outbound/Sample.mxl",
+		"/home/sushmita/EDI-Creator_Project/webservice/routes/index.js",
+		"/home/sushmita/EDI-Creator_Project/junk.py",
+		"/home/sushmita/EDI-Creator_Project/Project/Outbound/newdata.xml",
+		"/home/sushmita/EDI-Creator_Project/webservice/app/js/controllers/createEDI.js",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/controllers/Code.js",
+		"/home/sushmita/EDI-Creator_Project/out1.py",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/controllers/ElementUsageDefs.js",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/controllers/Agency.js",
+		"/home/sushmita/EDI-Creator_Project/Project/EDI Guidelines Generator Requirement.docx",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/routes.js",
+		"/home/sushmita/EDI-Creator_Project/Project/Query.py",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/models/SegmentUsage.js",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/controllers/SegmentUsage.js",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/models/TransactionSet.js",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/controllers/genres.js",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/controllers/TransactionSet.js",
+		"/home/sushmita/EDI-Creator_Project/Utility/uploadCollection.py",
+		"/home/sushmita/EDI-Creator_Project/Approach1/data.py",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/models/Version.js",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/models/Agency.js",
+		"/home/sushmita/EDI-Creator_Project/webservice/api/models/Code.js",
+		"/home/sushmita/EDI-Creator_Project/webservice/config/database.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<Segment>",
+			"<Group>",
+			"<EDISyntax>",
+			"<Group>",
+			"</BlockSig>",
+			"ediAssociation_out",
+			"<Tag>BIG</Tag>",
+			"<active>",
+			"<tag>",
+			"<segment>",
+			"segment ",
+			"segment",
+			"<Tag>DTM</Tag>",
+			"<Tag>CU</Tag>",
+			"<Tag>C</Tag>",
+			"<Tag>CUR</Tag>",
+			"group",
+			"<Element>",
+			"EDIs",
+			"segment",
+			"Segment",
+			"EDISY",
+			"<?",
+			"edisy",
+			"edi",
+			"AgencyID",
+			"EDIAssociations_OUT",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "out_ET.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 357.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,52 @@
+#previous-button {
+  display: none;
+}
+div {
+  font-size: 90%;
+}
+.sidebar {
+  display: none;
+}
+table {
+  font-size: 125%;
+}
+.preview-space #transaction-set {
+  font-size: 250%;
+  word-wrap: break-word;
+}
+.btn {
+  display: none;
+}
+.navbar-fixed {
+  display: none;
+}
+.progress-bar-status {
+  display: none;
+}
+.page-heading {
+  display: none;
+}
+div#content {
+  margin-left: 0px;
+}
+.page-break {
+  display: block;
+  page-break-before: always;
+}
+.preview-space {
+  width: 100% ;
+  margin-left: 0%;
+  border: none;
+}
+body {
+  background: white;
+  font-size: 12pt;
+}
+.preview-space #segment-details {
+  font-size: 90%;
+  width: 25%;
+  word-wrap: break-word;
+  border: solid;
+  border-width: 2;
+  border-color: blue;
+}
